@@ -14,7 +14,7 @@
     "/interest/":[*兴趣*],
     "/blogs/": [*博文*],
     "/love/":[*恋爱日志*],
-    "/film_television/": [*观影追剧*],
+    "/film/": [*观影*],
     "/graduate":[*保研*]
   ),
   
