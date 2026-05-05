@@ -1,7 +1,7 @@
 #import "/config.typ": template, tufted
 #show: template.with(title: "观影")
 
-= 观影
+= 观影札记
 
 我在#link("https://www.douban.com/people/275951478/?_i=6085312Ns-jyrG")[豆瓣]标记电影。
 
