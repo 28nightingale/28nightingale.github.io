@@ -4,5 +4,5 @@
 )
 
 = 保研
-
-#link("./school")[择校]
+- #link("./school")[择校]
+- #link("./final_test")[大三下期末安排]  
