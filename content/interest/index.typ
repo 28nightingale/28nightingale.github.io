@@ -1,16 +1,15 @@
 #import "../index.typ": template, tufted
 #show: template.with(
-  title: "兴趣"
+  title: "业余爱好"
 )
 
-= 兴趣
+= 业余爱好
 
 *要是能和娜娜看一辈子电影就好了！*
 
 - 影视
-- 算法
-- 游戏
-  
+- 文学
+- 足球
 
 
 
